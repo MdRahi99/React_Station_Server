@@ -1,0 +1,32 @@
+[
+  {
+    "id": "01",
+    "name": "Components",
+    "description": "A Component is considered as the core building blocks of a React application. It makes the task of building UIs much easier. Each component exists in the same space, but they work independently from one another and merge all in a parent component, which will be the final UI of your application. Every React component have their own structure, methods as well as APIs. They can be reusable as per your need."
+  },
+  {
+    "id": "02",
+    "name": "Jsx",
+    "description": "JSX provides you to write HTML/XML-like structures (e.g., DOM-like tree structures) in the same file where you write JavaScript code, then preprocessor will transform these expressions into actual JavaScript code. Just like XML/HTML, JSX tags have a tag name, attributes, and children."
+  },
+  {
+    "id": "03",
+    "name": "Props",
+    "description": "Props stand for 'Properties.' They are read-only components. It is an object which stores the value of attributes of a tag and work similar to the HTML attributes. It gives a way to pass data from one component to other components. It is similar to function arguments. Props are passed to the component in the same way as arguments passed in a function."
+  },
+  {
+    "id": "04",
+    "name": "State",
+    "description": "The state is an updatable structure that is used to contain data or information about the component. The state in a component can change over time. The change in state over time can happen as a response to user action or system event. A component with the state is known as stateful components. It is the heart of the react component which determines the behavior of the component and how it will render. They are also responsible for making a component dynamic and interactive."
+  },
+  {
+    "id": "05",
+    "name": "Lifecycle Methods",
+    "description": "In ReactJS, every component creation process involves various lifecycle methods. These lifecycle methods are termed as component's lifecycle. These lifecycle methods are not very complicated and called at various points during a component's life. The lifecycle of the component is divided into four phases. They are:Initial Phase,Mounting Phase,Updating Phase,Unmounting Phase. Each phase contains some lifecycle methods that are specific to the particular phase."
+  },
+  {
+    "id": "06",
+    "name": "Hooks",
+    "description": "Hooks are the new feature introduced in the React 16.8 version. It allows you to use state and other React features without writing a class. Hooks are the functions which 'hook into' React state and lifecycle features from function components. It does not work inside classes. Hooks are backward-compatible, which means it does not contain any breaking changes. Also, it does not replace your knowledge of React concepts."
+  }
+]
